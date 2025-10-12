@@ -30,7 +30,7 @@ public class bubbleRecur {
 
 	public static void main(String[] args) {
 		bubbleRecur b = new bubbleRecur();
-		int[] array = { 3, 6, 4, 2, 7, 8, 5, 15, 13, 25, 27, 75, 103, 47};
+		int[] array = { 3, 6, 4, 2, 7, 8, 5, 15, 13, 25, 27, 75, 103, 47,38, 79};
 		b.bubbleRecur(array, 0);
 		for (int i : array) {
 			System.out.println(i);
