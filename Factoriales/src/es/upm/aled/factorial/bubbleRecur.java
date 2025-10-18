@@ -1,5 +1,7 @@
 package es.upm.aled.factorial;
 
+import java.util.Arrays;
+
 public class bubbleRecur {
 
 	public void bubbleRecur(int[] array, int j) {
@@ -37,9 +39,8 @@ public class bubbleRecur {
 		}
 	}
 
+
+	
 }
-
-
-
 
 
